@@ -19568,7 +19568,7 @@ X4:function X4(){},
 Gj:function Gj(){},
 a_9:function a_9(a){this.a=a},
 Zo:function Zo(a){this.a=a},
-atb(){var s,r=A.a([],t.yy),q=A.a(["Domingo","Lunes,","Martes","Miercoles","Jueves","Viernes","Sabado"],t.s),p=J.Ey(7,t.S)
+atb(){var s,r=A.a([],t.yy),q=A.a(["Lunes,","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"],t.s),p=J.Ey(7,t.S)
 for(s=0;s<7;++s)p[s]=0
 return new A.KU(r,q,p,B.k)},
 uL:function uL(a){this.a=a},
